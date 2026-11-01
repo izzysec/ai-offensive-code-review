@@ -48,7 +48,7 @@ Works on any language Claude can read - JavaScript, TypeScript, Python, Go, Java
 ## Quick Start
 
 ```bash
-git clone https://github.com/izzy0101010101/ai-offensive-code-review.git
+git clone https://github.com/izzysec/ai-offensive-code-review.git
 cd ai-offensive-code-review
 claude
 ```
